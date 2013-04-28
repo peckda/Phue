@@ -17,9 +17,6 @@
             "role":  "lead"
         }
     ],
-    "require": {
-        "php": "5.4.*"
-    },
     "require-dev": {
         "phpunit/PHPUnit": "3.7.*",
         "squizlabs/php_codesniffer": "1.4.*"
